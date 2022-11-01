@@ -17,4 +17,4 @@
 \
 \
 \pard\pardeftab720\partightenfactor0
-\cf2 \cb3 \strokec2 Es originaria de una gran \'e1rea de China, sobre todo de los bosques del valle del r\'edo Yangts\'e9.}
+\cf2 \cb3 \strokec2 Es originaria de una gran \'e1rea de China, sobre todoooo de los bosques del valle del r\'edo Yangts\'e9.}
